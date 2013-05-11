@@ -1,0 +1,910 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LED",
+				"LED_PIN"
+			],
+			[
+				"ard",
+				"arduino"
+			],
+			[
+				"is",
+				"is_set"
+			],
+			[
+				"stae",
+				"state_lock"
+			],
+			[
+				"thead",
+				"threading"
+			],
+			[
+				"gpio",
+				"gpio_available"
+			],
+			[
+				"image",
+				"image_thread"
+			],
+			[
+				"stop",
+				"stop_exec"
+			],
+			[
+				"SER",
+				"SERIAL_PORT_PROFILE"
+			],
+			[
+				"pro",
+				"profiles"
+			],
+			[
+				"service",
+				"service_classes"
+			],
+			[
+				"server",
+				"server_sock"
+			],
+			[
+				"aru",
+				"arduino_file"
+			],
+			[
+				"ardui",
+				"arduino_file"
+			],
+			[
+				"arduino",
+				"arduino_file"
+			],
+			[
+				"ar",
+				"arduino_thread"
+			],
+			[
+				"Ardui",
+				"ArduinoThread"
+			],
+			[
+				"thre",
+				"threading"
+			],
+			[
+				"Image",
+				"ImageThread"
+			],
+			[
+				"Ar",
+				"ArduinoThread"
+			],
+			[
+				"set",
+				"settimeout"
+			],
+			[
+				"SO",
+				"SO_TIMEOUT"
+			],
+			[
+				"SO_",
+				"SO_TIMEOUT"
+			],
+			[
+				"I",
+				"ImageThread"
+			],
+			[
+				"A",
+				"ArduinoThread"
+			],
+			[
+				"IM",
+				"IMAGE_FILE"
+			],
+			[
+				"IMAGE",
+				"IMAGE_DELAY"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"AR",
+				"ARDUINO_FILE"
+			],
+			[
+				"im",
+				"IMAGE_FILE"
+			],
+			[
+				"Im",
+				"IMAGE_DEV"
+			],
+			[
+				"re",
+				"recv"
+			],
+			[
+				"rec",
+				"received_message"
+			],
+			[
+				"recv",
+				"recv_msg"
+			],
+			[
+				"send",
+				"send_msg"
+			],
+			[
+				"req",
+				"request_message"
+			],
+			[
+				"requ",
+				"request_message"
+			],
+			[
+				"request_",
+				"request_message"
+			],
+			[
+				"six",
+				"sixaxis-rc"
+			],
+			[
+				"E",
+				"JS_EVENT_BUTTON"
+			],
+			[
+				"js",
+				"js_fd"
+			],
+			[
+				"n",
+				"n_read"
+			],
+			[
+				"p",
+				"printf	printf …"
+			],
+			[
+				"lib",
+				"libusb_detach_kernel_driver"
+			],
+			[
+				"dev",
+				"dev_handle"
+			],
+			[
+				"libusb_get",
+				"libusb_get_device_descriptor"
+			],
+			[
+				"te",
+				"test_total_combinations"
+			],
+			[
+				"toto",
+				"total_combination"
+			],
+			[
+				"pr",
+				"product_id"
+			],
+			[
+				"ve",
+				"vendor_id"
+			],
+			[
+				"desc",
+				"desc_ascii"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"Htt",
+				"HttpResponseForbidden"
+			],
+			[
+				"mem",
+				"membership_set"
+			],
+			[
+				"resut",
+				"results"
+			],
+			[
+				"searc",
+				"search_history"
+			],
+			[
+				"sear",
+				"search_history"
+			],
+			[
+				"ses",
+				"sess_id"
+			],
+			[
+				"sess",
+				"session_history"
+			],
+			[
+				"cookies",
+				"cookies_header"
+			],
+			[
+				"coo",
+				"cookies_header"
+			],
+			[
+				"new",
+				"new_id"
+			],
+			[
+				"ne",
+				"new_id"
+			],
+			[
+				"ind",
+				"indices"
+			],
+			[
+				"Proc",
+				"ProcessQueryRequest"
+			],
+			[
+				"se",
+				"session_history"
+			],
+			[
+				"uin",
+				"uint64_t"
+			],
+			[
+				"qu",
+				"query_results_html"
+			],
+			[
+				"quer",
+				"query_results_html"
+			],
+			[
+				"que",
+				"query_result"
+			],
+			[
+				"q",
+				"query_result"
+			],
+			[
+				"Qu",
+				"QueryResult"
+			],
+			[
+				"query_re",
+				"query_results_html"
+			],
+			[
+				"Query",
+				"QueryResult"
+			],
+			[
+				"ur",
+				"url_parser"
+			],
+			[
+				"Ur",
+				"URLParser"
+			],
+			[
+				"tes",
+				"testfile"
+			],
+			[
+				"remove-",
+				"remove-invite"
+			],
+			[
+				"rem",
+				"remove-invite"
+			],
+			[
+				"rev",
+				"remove-invite"
+			],
+			[
+				"remov",
+				"remove-user-btn"
+			],
+			[
+				"memb",
+				"member-name"
+			],
+			[
+				"member",
+				"member_id"
+			],
+			[
+				"remove",
+				"remove-user-confirm"
+			],
+			[
+				"user",
+				"user-name-here"
+			],
+			[
+				"gr",
+				"group_alias"
+			],
+			[
+				"Http",
+				"HttpResponseForbidden"
+			],
+			[
+				"Group",
+				"GroupAliasForm"
+			],
+			[
+				"str",
+				"string0"
+			],
+			[
+				"string",
+				"string1"
+			],
+			[
+				"_",
+				"_ACCEPTANCE_CHOICES"
+			],
+			[
+				"in",
+				"invites"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"H",
+				"HttpResponseForbidden"
+			],
+			[
+				"HttpRes",
+				"HttpResponse"
+			],
+			[
+				"membe",
+				"membership"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"group",
+				"group_set"
+			],
+			[
+				"head",
+				"headers"
+			],
+			[
+				"ret",
+				"ret"
+			],
+			[
+				"res",
+				"response_code"
+			],
+			[
+				"resp",
+				"response_code"
+			],
+			[
+				"Con",
+				"Content-type"
+			],
+			[
+				"file",
+				"file_contents"
+			],
+			[
+				"read",
+				"readfile	Read File Into Vector"
+			],
+			[
+				"HttpRE",
+				"HttpResponse"
+			],
+			[
+				"Proce",
+				"ProcessRequest"
+			],
+			[
+				"by",
+				"bytes_read"
+			],
+			[
+				"fist",
+				"first_line"
+			],
+			[
+				"token",
+				"token_compress_on"
+			],
+			[
+				"first",
+				"first_line"
+			],
+			[
+				"toke",
+				"tokenizedRequest"
+			],
+			[
+				"to",
+				"tokenizedRequest"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"buf",
+				"buffer_"
+			],
+			[
+				"f",
+				"fd_"
+			],
+			[
+				"fil",
+				"file_contents"
+			],
+			[
+				"ser",
+				"server_dnsname"
+			],
+			[
+				"c",
+				"c_str"
+			],
+			[
+				"cli",
+				"client_dnsname"
+			],
+			[
+				"clie",
+				"client_port"
+			],
+			[
+				"Client",
+				"client_port"
+			],
+			[
+				"as",
+				"assign"
+			],
+			[
+				"IN",
+				"INET_ADDRSTRLEN"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"sad",
+				"saddr_len"
+			],
+			[
+				"cle",
+				"client_dnsname"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RCDroidServer_TCP.py",
+			"settings":
+			{
+				"buffer_size": 3114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RCDroidServer_Bluetooth.py",
+			"settings":
+			{
+				"buffer_size": 3340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rc-droid.sh",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kyle/workspace/EchoBlue/EchoPy/echo_server.py",
+		"/home/kyle/workspace/RCDroid/RCDroidServer/image_server_test_bluetooth.py",
+		"/etc/avserver.conf",
+		"/home/kyle/workspace/RCDroid/RCDroidServer/RCDroidServer_TCP (copy).py",
+		"/home/kyle/workspace/RCDroid/RCDroidServer/RCDroidServer_image.py",
+		"/home/kyle/.gvfs/SFTP for pi on wirelesspi/home/pi/wifi/echo_server_tcp.py",
+		"/home/kyle/.gvfs/SFTP for pi on wirelesspi/home/pi/wifi/img_server.py",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/cse/courses/cse451/13wi/Project4/src/filesys/fastfat/wxp/fat.h",
+		"/home/kyle/github/sixaxis-rc/sixaxis.h",
+		"/home/kyle/github/sixaxis-rc/sixaxis-rc.cc",
+		"/home/kyle/github/sixaxis-rc/Makefile",
+		"/home/kyle/Desktop/echo.cc",
+		"/home/kyle/github/sixaxis-rc/dc_motor_test.cc",
+		"/home/kyle/github/sixaxis-rc/servo_test.cc",
+		"/home/kyle/github/sixaxis-rc/joystick.h",
+		"/home/kyle/Desktop/test_write.cc",
+		"/home/kyle/github/sixaxis-rc/sixaxis.cc",
+		"/home/kyle/Desktop/prac/AmazonInterview2.java",
+		"/home/kyle/Desktop/Test.java",
+		"/home/kyle/Desktop/test.java",
+		"/home/kyle/github/sixaxis/sixaxis.h",
+		"/home/kyle/github/sixaxis/sixaxis.cc",
+		"/home/kyle/github/sixaxis/Makefile",
+		"/home/kyle/github/sixaxis/joystick.h",
+		"/home/kyle/github/sixaxis/README.md",
+		"/home/kyle/joystick/Makefile",
+		"/home/kyle/joystick/sixaxis.cc",
+		"/home/kyle/joystick/sixaxis.h",
+		"/home/kyle/joystick/joystick.h",
+		"/home/kyle/joystick/controller.cc",
+		"/home/kyle/joystick/joystick-api.txt",
+		"/home/kyle/Desktop/Makefile",
+		"/home/kyle/Desktop/hexplay.cc",
+		"/home/kyle/Desktop/ps3play.cc",
+		"/home/kyle/Desktop/usbplay.cc",
+		"/home/kyle/Desktop/testlibusb.c",
+		"/home/kyle/Desktop/comb.cc",
+		"/home/kyle/Desktop/test.cc",
+		"/home/kyle/Desktop/single_linked_list.h",
+		"/home/kyle/github/Bulletin/bulletin_project/settings.py",
+		"/home/kyle/github/Bulletin/posts/views.py",
+		"/home/kyle/github/Bulletin/registration/views.py",
+		"/home/kyle/github/Bulletin/session/views.py",
+		"/home/kyle/github/Bulletin/registration/forms.py",
+		"/home/kyle/github/Bulletin/registration/models.py",
+		"/home/kyle/github/Bulletin/registration/urls.py",
+		"/home/kyle/github/Bulletin/groups/views.py",
+		"/home/kyle/github/Bulletin/templates/group_base.html",
+		"/home/kyle/github/Bulletin/templates/base.html",
+		"/home/kyle/github/Bulletin/templates/email_invite_error.html",
+		"/home/kyle/github/Bulletin/PYENV/lib/python2.7/site-packages/django/contrib/auth/models.py",
+		"/home/kyle/github/Bulletin/groups/models.py",
+		"/home/kyle/github/Bulletin/static_resources/js/group.js",
+		"/home/kyle/github/Bulletin/templates/group_remove_member_modal.html",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/HttpServer.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/HttpResponse.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/HttpConnection.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/HttpServer.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/http333d.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/HttpRequest.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/ThreadPool.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/ThreadPool.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/HttpUtils.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/libhw3/QueryProcessor.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/HttpConnection.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/FileReader.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/HttpUtils.cc",
+		"/home/kyle/github/Bulletin/templates/group_invite_modal.html",
+		"/home/kyle/github/Bulletin/static_resources/js/group-invite.js",
+		"/home/kyle/github/Bulletin/static_resources/js/site.js",
+		"/home/kyle/github/Bulletin/groups/urls.py",
+		"/home/kyle/github/Bulletin/groups/forms.py",
+		"/home/kyle/github/Bulletin/session/urls.py",
+		"/home/kyle/github/Bulletin/bulletin_project/urls.py",
+		"/home/kyle/Desktop/reverse_string.cc",
+		"/home/kyle/Desktop/is_anagram.cc",
+		"/home/kyle/Desktop/toy.cc",
+		"/home/kyle/github/Bulletin/.gitignore",
+		"/home/kyle/github/Bulletin/registration/admin.py",
+		"/home/kyle/github/Bulletin/groups/admin.py",
+		"/home/kyle/github/Bulletin/templates/group_view.html",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/FileReader.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/ServerSocket.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/test_httpconnection.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/my_test.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/ServerSocket.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/test_filereader.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333/hw4/Makefile",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex18/sock_util.cc",
+		"/home/kyle/github/Bulletin/requirements.txt",
+		"/home/kyle/Desktop/eh.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex18/Makefile",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex18/sock_util.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex18/ex18.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333sec/sec8/Makefile",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex17/ex17.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex14/StaticChild.h",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/GetPrime.h",
+		"/home/kyle/github/403Section/urlsort.py",
+		"/home/kyle/github/403Section/README.md",
+		"/home/kyle/github/403Section/test.txt",
+		"/home/kyle/github/403Section/urlsort_test.py",
+		"/home/kyle/github/403Section/expected.txt",
+		"/home/kyle/github/403Section/sample.txt",
+		"/home/kyle/github/403Section/urls_invalid.txt",
+		"/home/kyle/github/403Section/urls_valid.txt",
+		"/home/kyle/github/403Section/valid_url_regex.py",
+		"/home/kyle/github/403Section/url_normalize.py",
+		"/home/kyle/.gvfs/SFTP for kyle on ubserv/home/kyle/project_euler/p23.py",
+		"/home/kyle/Bulletin/templates/group_view.html",
+		"/home/kyle/Bulletin/templates/group_post.html",
+		"/home/kyle/Bulletin/posts/views.py",
+		"/home/kyle/Bulletin/static_resources/js/group.js",
+		"/home/kyle/Bulletin/static_resources/js/site.js",
+		"/home/kyle/Bulletin/templates/group_create_modal.html",
+		"/home/kyle/Bulletin/templates/group_comment.html",
+		"/home/kyle/Bulletin/bulletin_project/settings.py",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex17/Makefile",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex16/ex16.cc",
+		"/home/kyle/.gvfs/SFTP for boonekr on attu.cs.washington.edu/homes/iws/boonekr/cse333ex/ex16/Makefile",
+		"/home/kyle/Bulletin/posts/urls.py",
+		"/home/kyle/Bulletin/templates/group_base.html",
+		"/home/kyle/Desktop/views2.py",
+		"/home/kyle/Bulletin/manage.py",
+		"/home/kyle/Bulletin/Procfile",
+		"/home/kyle/Bulletin/posts/__init__.py",
+		"/home/kyle/Bulletin/groups/urls.py",
+		"/home/kyle/Bulletin/groups/views.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sys",
+			"SO",
+			"ClientWrite",
+			"\n",
+			">>",
+			"html",
+			"/static/",
+			"static",
+			"kv",
+			"TODO",
+			"DEAD",
+			"HEADER",
+			"NumElementsInLinkedLis",
+			"HashTableRecord",
+			" ",
+			"FROM_EMAIL",
+			"send_mail",
+			"int"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"{{ STATIC_URL }}",
+			", "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RCDroidServer_TCP.py",
+					"settings":
+					{
+						"buffer_size": 3114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "RCDroidServer_Bluetooth.py",
+					"settings":
+					{
+						"buffer_size": 3340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rc-droid.sh",
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tp",
+				"/home/kyle/Desktop/HelloThar.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
