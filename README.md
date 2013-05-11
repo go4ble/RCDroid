@@ -2,6 +2,9 @@
 
 Android application and platform setup for controlling a simple exploration robot
 
+![](images/IMG_20130510_185527_014.jpg)
+![](images/IMG_20130510_185607_234.jpg)
+
 ##Main Components
 
 ###Raspberry Pi [[link](http://www.raspberrypi.org/faqs)]
